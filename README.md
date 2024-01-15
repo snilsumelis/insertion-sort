@@ -13,7 +13,7 @@ The average case occurs when each element in the array is equally likely to be i
 - Worst Case: O(n^2)
 The worst-case scenario happens when the input array is in reverse order. In this case, the algorithm performs the maximum number of comparisons and swaps, resulting in a time complexity of O(n^2).
 
-## Here is an example first 4 steps of the Selection Sort algorithm for the array [7, 3, 5, 8, 2, 9, 4, 15, 6]:
+### Here is an example first 4 steps of the Selection Sort algorithm for the array [7, 3, 5, 8, 2, 9, 4, 15, 6]:
 ### Step 1:
 - Array: [7, 3, 5, 8, 2, 9, 4, 15, 6]
 - Minimum element: 2 (index: 4)
