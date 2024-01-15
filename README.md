@@ -4,7 +4,7 @@
 ## Time Complexity (Big-O Notation):
 The time complexity of the insertion sort algorithm is O(n^2) in the worst case. This is because, in the worst-case scenario, each element in the unsorted part of the array needs to be compared and moved to its correct position.
 
--Best Case: O(n)
+- Best Case: O(n)
 In the best-case scenario, when the input array is already sorted, the algorithm only needs to perform n-1 comparisons and 0 swaps.
 
 -Average Case: O(n^2)
