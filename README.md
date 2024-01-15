@@ -1,6 +1,6 @@
 # insertion-sort
-# Description:
-## The provided Python code implements the insertion sort algorithm, which is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort. However, insertion sort is more efficient in practice than its quadratic time complexity would suggest and is suitable for small datasets or nearly sorted datasets.
+## Description:
+The provided Python code implements the insertion sort algorithm, which is a simple sorting algorithm that builds the final sorted array one item at a time. It is much less efficient on large lists than more advanced algorithms such as quicksort, heapsort, or merge sort. However, insertion sort is more efficient in practice than its quadratic time complexity would suggest and is suitable for small datasets or nearly sorted datasets.
 ## Time Complexity (Big-O Notation):
 The time complexity of the insertion sort algorithm is O(n^2) in the worst case. This is because, in the worst-case scenario, each element in the unsorted part of the array needs to be compared and moved to its correct position.
 
